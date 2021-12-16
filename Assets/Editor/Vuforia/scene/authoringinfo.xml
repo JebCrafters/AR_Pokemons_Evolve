@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="10.1.4">
+<ModelTarget name="scene" targetId="2870726e2e154733885d9d6771eb668c" version="14.0" toolVersion="10.1.4" bbox="-0.137545 -0.000726 -0.175088 0.131359 0.417874 0.206246" previewImage="2870726e2e154733885d9d6771eb668c_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="scenes_assembly" assemblyId="177b7fe187ce4ddfbe311c346d7f7235">
+<Part name="scene" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.0109492 0.147572 0.931418" rotation="AD: 0.9963803269693109 0.19775800233714558 -0.5165837375175794 217.011" image="scene_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
