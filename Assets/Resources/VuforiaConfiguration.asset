@@ -37,7 +37,7 @@ MonoBehaviour:
     videoBackgroundEnabled: 1
   deviceTracker:
     autoStartTracker: 1
-    arcoreRequirement: 0
+    arcoreRequirement: 1
     autoImportArcore: 0
   playmode:
     mSequencePath: 
