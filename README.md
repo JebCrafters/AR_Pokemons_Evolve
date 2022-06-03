@@ -4,9 +4,22 @@ reality application based on the Unity3D game engine and
 the Vuforia plugin. 
 The main task of this application is to scan pokémon cards and display 
 their models in augmented reality. Just implemented the possibility of pokemon 
-evolution with a combination of several cards.  Used software and languages: Unity3D, C#.
+evolution with a combination of several cards. 
+
+https://user-images.githubusercontent.com/38751180/171838429-b70c0174-3a65-4205-bf18-ef2f65dd8725.mp4
 
 
-<video width="320" height="240" controls>
-  <source type="video/mp4" src="https://github.com/JebCrafters/AR_Pokemons_Evolve/blob/main/Final%20Result.mp4">
-</video>
+Additional functionality is a pokemon database in which you can without scanning look at all of the existing (in the database of the application pokemons as well as their 3d models). 
+
+https://user-images.githubusercontent.com/38751180/171838969-40a13374-c739-4c34-a493-d9acc90b9efb.mp4
+
+ Used software and languages: Unity3D, C#.
+
+
+
+
+
+
+
+
+
