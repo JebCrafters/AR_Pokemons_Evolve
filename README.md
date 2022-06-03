@@ -16,6 +16,7 @@ https://user-images.githubusercontent.com/38751180/171838969-40a13374-c739-4c34-
  Used software and languages: Unity3D, C#.
 
 
+Presentation on Sloval language https://docs.google.com/presentation/d/1sudu_8r4RB02-yrb59X-o6nzdFJtWF6q/edit?usp=sharing&ouid=114884409844004176284&rtpof=true&sd=true
 
 
 
